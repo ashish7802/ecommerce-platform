@@ -1,0 +1,4 @@
+name: release
+description: "Generated configuration for .github/workflows/release.yaml"
+release:
+  enabled: true
