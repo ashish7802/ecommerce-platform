@@ -1,0 +1,4 @@
+name: pull-request-checks
+description: "Generated configuration for .github/workflows/pull-request-checks.yaml"
+pull_request_checks:
+  enabled: true
