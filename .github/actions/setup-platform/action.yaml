@@ -1,4 +1,0 @@
-name: action
-description: "Generated configuration for .github/actions/setup-platform/action.yaml"
-action:
-  enabled: true
