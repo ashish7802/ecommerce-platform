@@ -1,0 +1,4 @@
+name: action
+description: "Generated configuration for ci-config/actions/setup-platform.yaml"
+action:
+  enabled: true
