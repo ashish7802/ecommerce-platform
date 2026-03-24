@@ -1,0 +1,4 @@
+name: service-build
+description: "Generated configuration for ci-cd/templates/service-build.yaml"
+service_build:
+  enabled: true
