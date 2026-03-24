@@ -1,0 +1,4 @@
+name: ci-checks
+description: "Generated configuration for ci-config/workflows/ci-checks.yaml"
+ci_checks:
+  enabled: true
