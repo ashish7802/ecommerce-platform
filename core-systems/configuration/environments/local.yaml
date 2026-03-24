@@ -1,0 +1,4 @@
+name: local
+description: "Generated configuration for core-systems/configuration/environments/local.yaml"
+local:
+  enabled: true
