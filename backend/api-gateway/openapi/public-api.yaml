@@ -1,0 +1,17 @@
+openapi: 3.1.0
+info:
+  title: E-Commerce Gateway API
+  version: 0.1.0
+paths:
+  /health:
+    get:
+      summary: Gateway health probe
+  /api/catalog/products:
+    get:
+      summary: List catalog products
+  /api/orders/quote:
+    post:
+      summary: Quote an order total
+  /api/payments/authorize:
+    post:
+      summary: Simulate payment authorization
