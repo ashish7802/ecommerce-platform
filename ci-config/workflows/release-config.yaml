@@ -1,0 +1,4 @@
+name: release
+description: "Generated configuration for ci-config/workflows/release-config.yaml"
+release:
+  enabled: true
