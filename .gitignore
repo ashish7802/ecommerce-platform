@@ -1,7 +1,0 @@
-__pycache__/
-node_modules/
-target/
-*.pyc
-*.o
-*.class
-.DS_Store
