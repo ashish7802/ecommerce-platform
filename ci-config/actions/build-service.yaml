@@ -1,0 +1,4 @@
+name: action
+description: "Generated configuration for ci-config/actions/build-service.yaml"
+action:
+  enabled: true
