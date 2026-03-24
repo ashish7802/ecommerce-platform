@@ -1,0 +1,4 @@
+name: application
+description: "Generated configuration for core-systems/configuration/base/application.yaml"
+application:
+  enabled: true
