@@ -1,7 +1,0 @@
-service:
-  environment: production
-security:
-  allowGuest: false
-  trustProxyHeaders: true
-observability:
-  emitStructuredLogs: true
