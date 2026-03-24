@@ -1,0 +1,4 @@
+name: release-services
+description: "Generated configuration for ci-cd/pipelines/release-services.yaml"
+release_services:
+  enabled: true
