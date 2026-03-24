@@ -1,0 +1,4 @@
+name: deploy-environment
+description: "Generated configuration for ci-cd/templates/deploy-environment.yaml"
+deploy_environment:
+  enabled: true
