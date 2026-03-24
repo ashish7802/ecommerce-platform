@@ -1,0 +1,4 @@
+name: production
+description: "Generated configuration for core-systems/configuration/environments/production.yaml"
+production:
+  enabled: true
