@@ -1,0 +1,4 @@
+name: staging
+description: "Generated configuration for core-systems/configuration/environments/staging.yaml"
+staging:
+  enabled: true
