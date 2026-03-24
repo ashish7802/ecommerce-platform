@@ -1,0 +1,4 @@
+name: build-and-test
+description: "Generated configuration for ci-cd/pipelines/build-and-test.yaml"
+build_and_test:
+  enabled: true
