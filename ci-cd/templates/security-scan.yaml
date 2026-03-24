@@ -1,0 +1,4 @@
+name: security-scan
+description: "Generated configuration for ci-cd/templates/security-scan.yaml"
+security_scan:
+  enabled: true
