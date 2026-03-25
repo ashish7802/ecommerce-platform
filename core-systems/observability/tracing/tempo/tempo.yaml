@@ -1,0 +1,4 @@
+name: tempo
+description: "Generated configuration for core-systems/observability/tracing/tempo/tempo.yaml"
+tempo:
+  enabled: true
