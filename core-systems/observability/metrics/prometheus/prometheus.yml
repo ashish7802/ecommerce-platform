@@ -1,0 +1,4 @@
+name: prometheus
+description: "Generated configuration for core-systems/observability/metrics/prometheus/prometheus.yml"
+prometheus:
+  enabled: true
