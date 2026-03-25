@@ -1,0 +1,5 @@
+{
+  "name": "catalog-sync",
+  "description": "Generated JSON for data/search/elasticsearch/pipelines/catalog-sync.json",
+  "enabled": true
+}
