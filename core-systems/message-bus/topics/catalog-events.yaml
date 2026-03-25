@@ -1,0 +1,4 @@
+name: catalog-events
+description: "Generated configuration for core-systems/message-bus/topics/catalog-events.yaml"
+catalog_events:
+  enabled: true
