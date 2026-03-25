@@ -1,0 +1,4 @@
+name: order-events
+description: "Generated configuration for core-systems/message-bus/topics/order-events.yaml"
+order_events:
+  enabled: true
